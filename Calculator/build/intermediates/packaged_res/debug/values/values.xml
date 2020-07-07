@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options">
+        <item>AA</item>
+        <item>AB</item>
+        <item>BB</item>
+        <item>BC</item>
+        <item>CC</item>
+        <item>CD</item>
+        <item>DD</item>
+
+
+    </string-array>
+    <color name="blueis">#4277f4</color>
+    <color name="cgpacolor">#561451</color>
+    <color name="colorAccent">#FFffff</color>
+    <color name="colorPrimary">#F52011</color>
+    <color name="colorPrimaryDark">#D51406</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <item name="ic_menu_camera" type="drawable">@android:drawable/ic_menu_camera</item>
+    <item name="ic_menu_gallery" type="drawable">@android:drawable/ic_menu_gallery</item>
+    <item name="ic_menu_manage" type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+    <item name="ic_menu_share" type="drawable">@android:drawable/ic_menu_share</item>
+    <item name="ic_menu_slideshow" type="drawable">@android:drawable/ic_menu_slideshow</item>
+    <string name="action_settings">Settings</string>
+    <string name="add">ADD</string>
+    <string name="app_name">CGPA ?</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banneradtest">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="calculate_now">Calculate Now</string>
+    <string name="cancel">Cancel</string>
+    <string name="cgpa1">CGPA:</string>
+    <string name="cgpa_0_00">CGPA: 0.00</string>
+    <string name="click_the_item_below_to_edit_and_swipe_to_delete">Click The item below to Edit and Swipe to Delete</string>
+    <string name="credit">Credit</string>
+    <string name="credit1">Credit :</string>
+    <string name="default_web_client_id" translatable="false">870305531387-j2en7lijhbn0abjp91t4q3sqe7e40pb9.apps.googleusercontent.com</string>
+    <string name="editing_entry_no">Editing Entry No:</string>
+    <string name="firebase_database_url" translatable="false">https://cgpacalculator-646d4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">870305531387</string>
+    <string name="google_api_key" translatable="false">AIzaSyD5LBEfgnEKZ1O-TdJ444QqR785x8ETZaU</string>
+    <string name="google_app_id" translatable="false">1:870305531387:android:1c64cb66c84aab88</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD5LBEfgnEKZ1O-TdJ444QqR785x8ETZaU</string>
+    <string name="google_storage_bucket" translatable="false">cgpacalculator-646d4.appspot.com</string>
+    <string name="gpa">GPA</string>
+    <string name="gpa1">GPA:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="insert_a_semestername">Insert A SemesterName</string>
+    <string name="mode">Mode</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="no_semester_found_please_calculate_and_save">No Semester Found!! Please Calculate and Save</string>
+    <string name="project_id" translatable="false">cgpacalculator-646d4</string>
+    <string name="save_semester">Save Semester</string>
+    <string name="semester_name">SEMESTER NAME</string>
+    <string name="slno">slno:</string>
+    <string name="title_activity_notification_activity">notification_activity</string>
+    <string name="update">Update</string>
+    <string name="uppertext">Input Credit/Marks and Gpa per subject</string>
+    <style name="AppTheme" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

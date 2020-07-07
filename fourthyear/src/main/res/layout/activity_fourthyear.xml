@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".fourthyear"
+        android:background="@drawable/back"
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerHorizontal="true"
+
+            >
+            <Button
+                android:id="@+id/cs"
+                android:layout_width="260dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/round_btn2"
+                android:fontFamily="@font/bevan"
+                android:text="@string/cs"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp"
+                />
+
+            <Button
+                android:id="@+id/it"
+                android:layout_width="260dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/round_btn2"
+                android:fontFamily="@font/bevan"
+                android:text="IT"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/extc"
+                android:layout_width="260dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/round_btn2"
+                android:fontFamily="@font/bevan"
+                android:text="extc"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/el"
+                android:layout_width="260dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/round_btn2"
+                android:fontFamily="@font/bevan"
+                android:text="ELECTRICAL"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/e"
+                android:layout_width="260dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/round_btn2"
+                android:fontFamily="@font/bevan"
+                android:text="electronics"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/ci"
+                android:layout_width="260dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/round_btn2"
+                android:fontFamily="@font/bevan"
+                android:text="civil"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/pr"
+                android:layout_width="260dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/round_btn2"
+                android:fontFamily="@font/bevan"
+                android:text="PRODUCTION"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/mech"
+                android:layout_width="260dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/round_btn2"
+                android:fontFamily="@font/bevan"
+                android:text="MECHANICAL"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/te"
+                android:layout_width="260dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/round_btn2"
+                android:fontFamily="@font/bevan"
+                android:text="textile"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>
+
+

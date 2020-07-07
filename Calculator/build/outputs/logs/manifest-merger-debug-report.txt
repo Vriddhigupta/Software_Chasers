@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+		INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:7:5-27:19
+	android:supportsRtl
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:8:9-35
+activity#cgpakoto.com.cgpa.Activities.Home
+ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:13:9-16:20
+	android:name
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:13:19-50
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:18:9-20:70
+	android:value
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:20:13-67
+	android:name
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:19:13-69
+activity#cgpakoto.com.cgpa.Activities.Calculator
+ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:22:9-26:20
+	android:label
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml:23:13-50
+uses-sdk
+INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+		INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+		ADDED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
+		INJECTED from /home/hp/AndroidStudioProjects/VJTI/Calculator/src/main/AndroidManifest.xml
